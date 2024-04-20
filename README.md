@@ -41,7 +41,6 @@ Project Link: [https://github.com/muneeb-rashid-cyan/To-Do-list-Html-CSS-and-js.
 ## Acknowledgments
 
 - Inspired by the need for a simple yet effective task management solution.
-- [Insert any libraries or resources used here, if applicable]
 
 ## Note
 
